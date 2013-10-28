@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Srun3000 Android Client. Thanks to open-source Srun3000 C# client for BIT.</string>
+    <string name="app_name">srun3000</string>
+</resources>
